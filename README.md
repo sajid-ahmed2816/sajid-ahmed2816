@@ -2,10 +2,10 @@
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid-ahmed2816&label=Profile%20views&color=0e75b6&style=flat" alt="sajid-ahmed2816" /> </p>
-<img align="right" alt="Coding" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" data-canonical-src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" style="width: 50%; height: auto;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" data-canonical-src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" style="width: 35%; height: auto;" data-target="animated-image.originalImage">
 
 
-<ul style="margin-bottom: 80px;">
+<ul style="margin: 0px 0px 30% 0px">
   
 <li>🔭 I’m currently working on <b>HTML,CSS,JS,React</b></li>
 
@@ -66,8 +66,12 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajid-ahmed2816&show_icons=true&locale=en&layout=compact" alt="sajid-ahmed2816" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajid-ahmed2816&show_icons=true&locale=en" alt="sajid-ahmed2816" /></p>
+<div style="display: flex; align-items: flex-start; gap: 10px">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid-ahmed2816&" alt="sajid-ahmed2816" width="100%"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajid-ahmed2816&" alt="sajid-ahmed2816" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sajid-ahmed2816&show_icons=true&locale=en" alt="sajid-ahmed2816" width="100%"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sajid-ahmed2816&show_icons=true&locale=en&layout=compact" alt="sajid-ahmed2816" width="100%"/>
+</div>
+
