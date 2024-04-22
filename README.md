@@ -1,7 +1,7 @@
-<h2>Hi 👋, I'm Sajid Ahmed </h2>
-<hr/>
-<h4>A passionate frontend developer from Pakistan</h4>
-<div>  
+<h2 align="center">Hi 👋, I'm Sajid Ahmed </h2>
+
+<h4 align="center">A passionate frontend developer from Pakistan</h4>
+<div style="display: flex;">  
 <ul>
   <li>🔭 I’m currently working on HTML,CSS,JS,REACT.</li>
   <li>🌱 I’m currently learning MERN Stack Development.</li>
