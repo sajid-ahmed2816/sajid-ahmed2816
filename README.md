@@ -16,12 +16,29 @@
 
 </ul>
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: flex, align-items: center, justify-content: center">
-<a href="https://linkedin.com/in/sajid-ahmed-9b5089279" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajid-ahmed-9b5089279" height="30" width="40" /></a>
-<a href="https://discord.com/users/sajidd_dev" target="_blank">
+<!-- <p align="left" style="display: flex, align-items: center, justify-content: center">
+  <a href="https://linkedin.com/in/sajid-ahmed-9b5089279" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-    generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajid-ahmed-9b5089279" height="30" width="40" 
+    />
+  </a>
+  <a href="https://discord.com/users/sajidd_dev" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="45" width="40" />
   </a>
-</p>
+</p> -->
+<table>
+  <tr>
+    <td>
+      <a href="https://linkedin.com/in/sajid-ahmed-9b5089279" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+      </a>
+    </td>
+    <td>
+      <a href="https://discord.com/users/sajidd_dev" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
