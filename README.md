@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajid Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajid-ahmed2816&label=Profile%20views&color=0e75b6&style=flat" alt="sajid-ahmed2816" /> </p>
 <img align="right" alt="Coding" src="https://github.com/user-attachments/assets/66ac442a-c9f8-4075-ab5e-156b15e221a5" style="width: 35%; height: auto;" data-target="animated-image.originalImage">
