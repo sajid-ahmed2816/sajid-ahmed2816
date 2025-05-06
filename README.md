@@ -82,7 +82,7 @@
     </td>
     <td>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+    <img src="https://github.com/user-attachments/assets/a600797e-e820-4714-8f9e-f3d9fedebbc3" alt="firebase" width="40" height="40"/> 
   </a> 
     </td>
     <td>    
@@ -93,7 +93,7 @@
     <td>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
+  </a>
     </td>
     <td>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
