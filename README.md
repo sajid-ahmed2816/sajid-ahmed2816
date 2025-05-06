@@ -10,13 +10,13 @@
 
 <li>🌱 I’m currently learning <b>3D Web Development</b></li>
 
-<li>💬 Ask me about <b>Frontend development</b></li>
+<li>💬 Ask me about <b>Frontend Development</b></li>
 
 <li>📫 How to reach me <b>sajid.ahmed2816@gmail.com</b></li>
 
 </ul>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="display: flex, align-items: center, justify-content: center">
 <a href="https://linkedin.com/in/sajid-ahmed-9b5089279" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajid-ahmed-9b5089279" height="30" width="40" /></a>
 <a href="https://discord.com/users/sajidd_dev" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="45" width="40" />
