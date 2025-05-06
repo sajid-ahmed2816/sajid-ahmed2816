@@ -96,12 +96,12 @@
     </td>
     <td>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/> 
   </a> 
     </td>
     <td>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> 
   </a> 
     </td>
   </tr>
