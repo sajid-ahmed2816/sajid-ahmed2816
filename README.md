@@ -12,7 +12,7 @@
 
 <li>💬 Ask me about <b>Frontend Development</b></li>
 
-<li>📫 How to reach me <b>sajid.ahmed2816@gmail.com</b></li>
+<li>📫 Feel free to reach me <b>sajid.ahmed2816@gmail.com</b></li>
 
 </ul>
 <h3 align="left">Connect with me:</h3>
