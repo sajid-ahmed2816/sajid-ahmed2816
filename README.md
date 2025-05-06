@@ -82,7 +82,7 @@
     </td>
     <td>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="[https://github.com/user-attachments/assets/a600797e-e820-4714-8f9e-f3d9fedebbc3](https://github.com/user-attachments/assets/89e46d36-c60a-4380-ac91-db426b300088)" alt="firebase" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/89e46d36-c60a-4380-ac91-db426b300088" alt="firebase" width="40" height="40"/>
     </td>
     <td>    
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
