@@ -7,9 +7,9 @@
 
 <ul style="margin: 0px 0px 30% 0px">
   
-<li>🔭 I’m currently working on <b>HTML,CSS,JS,React</b></li>
+<li>🔭 I’m currently working on <b>MERN Stack Development</b></li>
 
-<li>🌱 I’m currently learning <b>MERN Stack Development</b></li>
+<li>🌱 I’m currently learning <b>3D Web Development</b></li>
 
 <li>💬 Ask me about <b>Frontend development</b></li>
 
